@@ -23,29 +23,29 @@ _ReSharper.CSharp/
 *.opensdf
 *.sdf
 /CSharp/CSharp.sln.ide
-/Unity/Library
-/Unity/CSharp60Support/compilation log.txt
+/Unity-ET5/Library
+/Unity-ET5/CSharp60Support/compilation log.txt
 /CSharp/CSharp.VC.opendb
 /Server/Server.VC.opendb
 /Log
 /Temp
 /Logs
-/Unity/CSharp60Support/compilation.log
+/Unity-ET5/CSharp60Support/compilation.log
 /.vs
 /Server/.vs/
-/Unity/.vs/
+/Unity-ET5/.vs/
 /Tools/MongoDB
 /Excel/md5.txt
 /Release
 .idea/
-/Unity/Logs
-/Unity/Assets/StreamingAssets/
+/Unity-ET5/Logs
+/Unity-ET5/Assets/StreamingAssets/
 /netcoreapp2.0
-/Unity/Assets/StreamingAssets.meta
+/Unity-ET5/Assets/StreamingAssets.meta
 .DS_Store
 Server/.DS_Store
 /Server/.vscode/
 .vs/
 .objs/
-/Unity/.gradle
+/Unity-ET5/.gradle
 /*.user
